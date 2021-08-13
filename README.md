@@ -1,5 +1,6 @@
 <!-- ![Easy Frontend banner]() -->
 <img align="left" alt="Visual Studio Code" width="1900px" src="https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX"/>
+
 ## Hoang Thai - Passionate Web Developer
 
 ### Languages and Tools:
