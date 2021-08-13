@@ -1,4 +1,4 @@
-![Easy Frontend banner](hoangthai22/paulnguyen-mn)
+![Easy Frontend banner](https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX)
 
 
 ## Hoang Thai - Passionate Web Developer
